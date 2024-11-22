@@ -1,6 +1,6 @@
 # Markdown example post
 
-This is just an example blog post.
+This is just an example  blog post.
 
 ## Sub-heading
 
